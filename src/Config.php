@@ -8,7 +8,7 @@ define("SITE", [
 	"desc" => "Construindo uma app web para controle de acesso utilizando redes sociais e/ou email",
 	"domain" => "localauth.com",
 	"locale" => "pt_BR",
-	"root" => "http://localhost:8888"
+	"root" => "http://codigoaberto.test"
 ]);
 
 /**
